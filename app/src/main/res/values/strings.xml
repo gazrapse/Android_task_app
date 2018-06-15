@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">task_app</string>
+    <string name="action_settings">Settings</string>
+    <string name="SummaryTitle">Summary</string>
+    <string name="TaskToDo">Task To Do</string>
+    <string name="TaskDoing">Task Doing</string>
+    <string name="TaskDone">Task Done</string>
+    <string name="New">New</string>
+    <string name="ShowAll">Show All</string>
+</resources>
