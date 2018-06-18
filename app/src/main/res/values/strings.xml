@@ -7,4 +7,12 @@
     <string name="TaskDone">Task Done</string>
     <string name="New">New</string>
     <string name="ShowAll">Show All</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Save">Save</string>
+    <string name="Done">Done</string>
+    <string name="LongDescription">Long description</string>
+    <string name="ShortDescription">Short description</string>
+    <string name="ToDo">To Do</string>
+    <string name="Doing">Doing</string>
+    <string name="All">All</string>
 </resources>
